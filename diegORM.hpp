@@ -4,8 +4,10 @@
   *
   * This ORM is intended as a fast way of prototyping, not a final product
   * it is not well made, but for me is a easy way to be able to use a
-  * simple database at my universyty projects 
+  * simple ORM at my university projects
   * (witch must be totally coded by me) that's why I made an ORM
+  * 
+  * if you want to use this ORM, your classes mush implement the ORMInterface interface
   */
 
 
